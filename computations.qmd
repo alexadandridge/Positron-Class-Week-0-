@@ -9,7 +9,7 @@ format:
         code-line numbers: true
 
 ---
-**GitHub Repository** <https://github.com/alexadandridge/Positron-Class-Week-0>
+**GitHub Repository** <https://github.com/alexadandridge/Positron-Class-Week-0->
 This dataset contains a subset of the fuel economy data from the EPA.
 
 ```{python}
